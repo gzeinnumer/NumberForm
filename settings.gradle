@@ -1,0 +1,3 @@
+rootProject.name = "NumberForm"
+include ':app'
+include ':nf'
