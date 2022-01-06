@@ -1,5 +1,5 @@
 <pre>
-<img src="https://github.com/gzeinnumer/EasyEmptyListState/blob/master/preview/preview_1.gif" width="200"> <img src="https://github.com/gzeinnumer/EasyEmptyListState/blob/master/preview/preview_2.gif" width="200"> <img src="https://github.com/gzeinnumer/EasyEmptyListState/blob/master/preview/preview_3.jpg" width="200">
+<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg" width="200"> <img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg" width="200">
 </pre>
 
 <h1 align="center">
@@ -53,6 +53,10 @@ dependencies {
 #
 #### NumberForm
 
+<pre>
+<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg">
+</pre>
+
 ```xml
 <com.gzeinnumer.nf.NumberForm
     android:id="@+id/ed_data"
@@ -61,6 +65,9 @@ dependencies {
     android:hint="put number" />
 ```
 
+<pre>
+<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg">
+</pre>
 ```xml
 <com.google.android.material.textfield.TextInputLayout
     android:layout_width="match_parent"
