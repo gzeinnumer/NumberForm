@@ -1,5 +1,7 @@
 <pre>
-<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg" width="200"> <img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg" width="200">
+<center>
+<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example3.gif" width="200">
+</center>
 </pre>
 
 <h1 align="center">
