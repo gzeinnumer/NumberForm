@@ -10,7 +10,6 @@
 
     <com.gzeinnumer.nf.NumberForm
         android:id="@+id/ed_data"
-        android:inputType="number"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="put number" />
@@ -25,7 +24,6 @@
         android:layout_height="wrap_content">
 
         <com.gzeinnumer.nf.NumberForm
-            android:inputType="number"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
     </com.google.android.material.textfield.TextInputLayout>

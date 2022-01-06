@@ -2,6 +2,7 @@ package com.gzeinnumer.nf;
 
 import android.content.Context;
 import android.text.Editable;
+import android.text.InputType;
 import android.text.TextWatcher;
 import android.util.AttributeSet;
 
@@ -9,6 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 public class NumberForm extends androidx.appcompat.widget.AppCompatEditText implements TextWatcher {
+    boolean first = true;
+
     public NumberForm(@NonNull Context context) {
         super(context);
         initView(this);
@@ -19,9 +22,8 @@ public class NumberForm extends androidx.appcompat.widget.AppCompatEditText impl
         initView(this);
     }
 
-    boolean first = true;
-
     private void initView(NumberForm ed) {
+        ed.setInputType(InputType.TYPE_CLASS_NUMBER);
         ed.setOnFocusChangeListener((view, hasFocus) -> {
             if (!first) {
                 if (ed.getText().toString().length() == 0) {
