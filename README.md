@@ -1,8 +1,7 @@
-<center>
 <pre>
 <img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example3.gif" width="200">
 </pre>
-</center>
+
 <h1 align="center">
     NumberForm
 </h1>
@@ -54,9 +53,7 @@ dependencies {
 #
 #### NumberForm
 
-<pre>
-<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg">
-</pre>
+- EditText Example
 
 ```xml
 <com.gzeinnumer.nf.NumberForm
@@ -65,10 +62,12 @@ dependencies {
     android:layout_height="wrap_content"
     android:hint="put number" />
 ```
-
 <pre>
 <img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg">
 </pre>
+
+- TextInputLayout and TextInputEditText Example
+
 ```xml
 <com.google.android.material.textfield.TextInputLayout
     android:layout_width="match_parent"
@@ -80,13 +79,16 @@ dependencies {
         android:layout_height="wrap_content"/>
 </com.google.android.material.textfield.TextInputLayout>
 ```
+<pre>
+<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example2.jpg">
+</pre>
 
 ---
 # Example Code/App
 
 - Nested
-[NestedActivity.java](https://github.com/gzeinnumer/EasyEmptyListState/blob/master/app/src/main/java/com/gzeinnumer/easyemptyliststate/ui/nested/NestedActivity.java)
-[activity_nested.xml](https://github.com/gzeinnumer/EasyEmptyListState/blob/master/app/src/main/res/layout/activity_nested.xml)
+[NestedActivity.java](https://github.com/gzeinnumer/NumberForm/blob/master/app/src/main/java/com/gzeinnumer/numberform/MainActivity.java)
+[activity_nested.xml](https://github.com/gzeinnumer/NumberForm/blob/master/app/src/main/res/layout/activity_main.xml)
 
 ---
 # Version
