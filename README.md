@@ -86,6 +86,12 @@ dependencies {
 </pre>
 
 ---
+
+```
+You can user all of attribute in EditText inside NumberForm.
+```
+
+---
 # Example Code/App
 
 [MainActivity.java](https://github.com/gzeinnumer/NumberForm/blob/master/app/src/main/java/com/gzeinnumer/numberform/MainActivity.java)
