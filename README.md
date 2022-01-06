@@ -1,9 +1,8 @@
-<pre>
 <center>
+<pre>
 <img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example3.gif" width="200">
-</center>
 </pre>
-
+</center>
 <h1 align="center">
     NumberForm
 </h1>
