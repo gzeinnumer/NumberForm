@@ -1,5 +1,5 @@
 <pre>
-<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example3.gif" width="200">
+<img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example3.gif" width="300">
 </pre>
 
 <h1 align="center">
@@ -62,6 +62,7 @@ dependencies {
     android:layout_height="wrap_content"
     android:hint="put number" />
 ```
+
 <pre>
 <img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example1.jpg">
 </pre>
@@ -79,6 +80,7 @@ dependencies {
         android:layout_height="wrap_content"/>
 </com.google.android.material.textfield.TextInputLayout>
 ```
+
 <pre>
 <img src="https://github.com/gzeinnumer/NumberForm/blob/master/preview/example2.jpg">
 </pre>
@@ -86,9 +88,8 @@ dependencies {
 ---
 # Example Code/App
 
-- Nested
-[NestedActivity.java](https://github.com/gzeinnumer/NumberForm/blob/master/app/src/main/java/com/gzeinnumer/numberform/MainActivity.java)
-[activity_nested.xml](https://github.com/gzeinnumer/NumberForm/blob/master/app/src/main/res/layout/activity_main.xml)
+[MainActivity.java](https://github.com/gzeinnumer/NumberForm/blob/master/app/src/main/java/com/gzeinnumer/numberform/MainActivity.java)
+[activity_main.xml](https://github.com/gzeinnumer/NumberForm/blob/master/app/src/main/res/layout/activity_main.xml)
 
 ---
 # Version
